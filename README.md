@@ -1,4 +1,4 @@
-# Superstore_-Sales-Dashboard
+# Superstore_Sales_Dashboard
 
 ![Screenshot (714)](https://github.com/user-attachments/assets/136512fa-6bcf-43c3-9d65-8c49c87d059c)
 ------------------------------------------------------------------------------------------------------------------
