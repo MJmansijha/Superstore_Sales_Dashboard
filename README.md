@@ -1,7 +1,8 @@
 # Superstore_Sales_Dashboard
 
 # DASHBOARD: 1
-[Screenshot (714)](https://github.com/user-attachments/assets/136512fa-6bcf-43c3-9d65-8c49c87d059c)
+![Screenshot (714)](https://github.com/user-attachments/assets/d0fdaf20-fa75-4c14-b405-3578b3ccb2cc)
+
 ------------------------------------------------------------------------------------------------------------------
 
 # DASHBOARD: 2
